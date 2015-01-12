@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Jim's Blog</title>
+ <link href="http://jim2013.github.io//" rel="self"/>
+ <link href="http://jim2013.github.io/"/>
+ <updated>2015-01-12T23:21:16+08:00</updated>
+ <id>http://jim2013.github.io/</id>
+ <author>
+   <name>Jim Lao</name>
+   <email>developer.lao@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
