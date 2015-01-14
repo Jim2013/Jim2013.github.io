@@ -1,9 +1,0 @@
-
-http://jim2013.github.io//archive.html
-http://jim2013.github.io//atom.xml
-http://jim2013.github.io//categories.html
-http://jim2013.github.io//index.html
-http://jim2013.github.io//pages.html
-http://jim2013.github.io//rss.xml
-http://jim2013.github.io//sitemap.txt
-http://jim2013.github.io//tags.html
