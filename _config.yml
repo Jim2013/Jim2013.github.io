@@ -1,4 +1,4 @@
-# Dependencies
+﻿# Dependencies
 markdown:            redcarpet
 highlighter:         pygments
 
@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jim
-tagline:             'coder'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               
+tagline:             'Hello world!'
+description:         '互联网新兵，用0和1编织你我梦想！'
 url:                 http://lanyon.getpoole.com
 baseurl:             /
 paginate:            5
