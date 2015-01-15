@@ -9,18 +9,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               
-tagline:             'Hello world!'
+title:               Hello world!
+tagline:             '</p>'
 description:         '互联网新兵，用0和1编织你我梦想！'
-url:                 http://lanyon.getpoole.com
+url:                 http://jim2013.github.io
 baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jim Lao
+  url:               http://jim2013.github.io/
+  email:             developer.lao@gmail.com
 
 # Custom vars
 version:             1.0.0
