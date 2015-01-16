@@ -14,8 +14,20 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
+
+  <p>
+    <a href="{{ post.url }}" class="more-link">
+      <span class="readmore">阅读全文 &raquo;</span>
+    </a>
+  </p>
+  {% if forloop.last %}
+   {% else %}
+  <hr>
+  {% endif %}
+  <p class="blog-post-meta">日期：{{ post.date |date: "%Y-%m-%d"}}|分类： {{ post.category }}</p>
+  
   {% endfor %}
 </div>
 

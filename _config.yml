@@ -1,6 +1,7 @@
 ﻿# Dependencies
 markdown:            redcarpet
 highlighter:         pygments
+excerpt_separator:   "\n\n"
 
 # Permalinks
 #
