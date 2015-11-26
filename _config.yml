@@ -1,13 +1,15 @@
-﻿# Dependencies
+﻿gems: [jekyll-paginate]
+# Dependencies
 markdown:            redcarpet
 highlighter:         pygments
 excerpt_separator:   "\n\n"
 
+#jekyll v3.0 no longer supports relative permalinks
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+#permalink:           pretty
+#relative_permalinks: true
 
 # Setup
 title:               Hello world!
